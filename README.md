@@ -11,5 +11,4 @@ Sou formado em Engenharia Ambiental e Análise e Desenvolvimento de Sistemas. Me
 
 ### Estou estudando:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="40" height="40"/>
 
